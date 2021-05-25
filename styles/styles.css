@@ -1,0 +1,30 @@
+.titulo
+{
+	background-color: #48217B;
+}
+.card
+{
+	margin-top: 50px;
+	margin-left: 25px;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	width: 300px;
+	height: 350px;
+	background-color: green;
+}
+.texto1{
+	margin-top: 25px;
+	margin-left: 80px;
+	background-color: lightblue;
+	width: 200px;
+}
+.texto2{
+	margin-top: 50px;
+	margin-left: 550px;
+}
+
+body{
+	background-image: url("../img/fondo1.jfif");
+}
